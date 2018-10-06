@@ -1,6 +1,6 @@
 # Brick Breaker
 
-*Project in the C# language to demonstrate my knowledge in both  the language and object oriented principles.*
+*Project in the Java language to demonstrate my knowledge in both  the language and object oriented principles.*
 
 The game is the classic Brick Breaker game with options to create a level with text file and block types.
 
