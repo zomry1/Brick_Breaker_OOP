@@ -23,3 +23,10 @@ But here, I will break down the systems in the project:
 ## UML
 ![uml1](https://i.imgur.com/EiYahOi.jpg)
 ![uml2](https://i.imgur.com/3jW9abP.jpg)
+
+## Images
+![Menu](https://i.imgur.com/0emaOD8.png)
+![Jungle level](https://i.imgur.com/P7DBw1I.png)
+![The maze](https://i.imgur.com/b0NVkAz.png)
+![Pause](https://i.imgur.com/nDw25sG.png)
+![Scoreboard](https://i.imgur.com/GFsqHMQ.png)
