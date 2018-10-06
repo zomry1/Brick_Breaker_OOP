@@ -4,7 +4,7 @@
 
 The game is the classic Brick Breaker game with options to create a level with text file and block types.
 
-To show that I used right in the object oriented principles, I ~~created~~ a new game Space Invaders with the same code, only with little changes (Space Invaders).
+To show that I used right in the object oriented principles, I ~~created~~ a new game [Space Invaders](https://github.com/zomry1/Space_Invaders_OOP) with the same code, only with little changes (Space Invaders).
 
 ## Detailed breakdown of the code
 First of all, each class file is documents in it.
